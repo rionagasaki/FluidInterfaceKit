@@ -90,7 +90,7 @@ final class ScrollController {
 
     previousValue = scrollView.contentOffset
 
-    scrollView.setContentOffset(oldValue, animated: false)
+   // scrollView.setContentOffset(oldValue, animated: false)
   }
 
 }
